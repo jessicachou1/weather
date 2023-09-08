@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone">
+      <div class="div">
+        <div class="text-wrapper">Philadelphia</div>
+        <p class="p">It’s brisk. Bring a light jacket.</p>
+        <div class="status-bar">
+          <img class="notch" src="img/notch.png" />
+          <div class="left-side">
+            <div class="statusbar-time"><div class="time">9:41</div></div>
+          </div>
+          <div class="right-side">
+            <img class="statusbar-battery" src="img/statusbar-battery.svg" />
+            <img class="wifi" src="img/wifi.svg" />
+            <img class="icon-mobile-signal" src="img/mobile-signal.svg" />
+          </div>
+        </div>
+        <div class="segmented-picker">
+          <div class="segmentedpicker"><div class="value">D</div></div>
+          <div class="segmentedpicker-2"><div class="value-2">W</div></div>
+          <div class="segmentedpicker"><div class="value">M</div></div>
+        </div>
+        <div class="overlap">
+          <div class="slightly-cloudy">
+            <div class="overlap-group">
+              <div class="overlap-2">
+                <div class="overlap-group-2">
+                  <img class="subtract" src="img/subtract.svg" /> <img class="vector" src="img/vector-2.svg" />
+                </div>
+                <img class="img" src="img/vector-13.svg" />
+                <img class="vector-2" src="img/vector.svg" />
+              </div>
+              <img class="vector-3" src="img/vector-3.svg" />
+              <img class="vector-4" src="img/vector-6.svg" />
+            </div>
+          </div>
+          <div class="group">
+            <div class="text-wrapper-2">65</div>
+            <div class="text-wrapper-3">°F</div>
+          </div>
+        </div>
+        <div class="week">
+          <div class="datepicker-dayrow">
+            <div class="digit"><div class="date">69°</div></div>
+            <div class="digit"><div class="date">70°</div></div>
+            <div class="digit"><div class="date">71°</div></div>
+            <div class="digit"><div class="date">68°</div></div>
+            <div class="digit"><div class="date">65°</div></div>
+            <div class="digit"><div class="date-2">70°</div></div>
+            <div class="digit"><div class="date">65°</div></div>
+          </div>
+          <div class="frame">
+            <div class="img-2">
+              <div class="overlap-3">
+                <img class="vector-5" src="img/vector-11.svg" />
+                <div class="overlap-4">
+                  <img class="vector-6" src="img/vector-10.svg" />
+                  <img class="vector-7" src="img/vector-5.svg" />
+                  <div class="overlap-group-3">
+                    <img class="vector-8" src="img/vector-12.svg" /> <img class="subtract-2" src="img/subtract-2.svg" />
+                  </div>
+                </div>
+                <img class="vector-9" src="img/vector-7.svg" />
+              </div>
+            </div>
+            <div class="img-2">
+              <div class="overlap-3">
+                <img class="vector-5" src="img/image.svg" />
+                <div class="overlap-4">
+                  <img class="vector-6" src="img/vector-8.svg" />
+                  <img class="vector-7" src="img/vector-9.svg" />
+                  <div class="overlap-group-3">
+                    <img class="vector-8" src="img/vector-4.svg" /> <img class="subtract-2" src="img/subtract-3.svg" />
+                  </div>
+                </div>
+                <img class="vector-9" src="img/vector-14.svg" />
+              </div>
+            </div>
+            <img class="img-2" src="img/sun.svg" />
+            <img class="img-2" src="img/cloud-snow.svg" />
+            <img class="img-2" src="img/cloud-snow-2.svg" />
+            <img class="img-2" src="img/cloud-lightning.svg" />
+            <img class="img-2" src="img/cloud-drizzle.svg" />
+          </div>
+          <div class="datepicker-dayrow-2">
+            <div class="digit"><div class="date-3">50°</div></div>
+            <div class="digit"><div class="date-3">51°</div></div>
+            <div class="digit"><div class="date-3">54°</div></div>
+            <div class="digit"><div class="date-3">52°</div></div>
+            <div class="digit"><div class="date-3">51°</div></div>
+            <div class="digit"><div class="date-4">58°</div></div>
+            <div class="digit"><div class="date-3">51°</div></div>
+          </div>
+          <div class="navbar">
+            <div class="day">SUN</div>
+            <div class="day-2">MON</div>
+            <div class="day">TUE</div>
+            <div class="day">WED</div>
+            <div class="day">THU</div>
+            <div class="day">FRI</div>
+            <div class="day">SAT</div>
+          </div>
+        </div>
+        <img class="align-justify" src="img/align-justify.svg" />
+        <div class="overlap-5">
+          <div class="other-data">
+            <div class="frame-2">
+              <div class="img-2">
+                <div class="overlap-group-4">
+                  <img class="group-2" src="img/group-3.png" />
+                  <div class="ellipse"></div>
+                </div>
+              </div>
+              <div class="day-3">AQI</div>
+              <div class="group-3">
+                <div class="overlap-group-5">
+                  <img class="line" src="img/line-2-5.svg" />
+                  <div class="ellipse-2"></div>
+                </div>
+              </div>
+              <div class="day-4">60</div>
+            </div>
+            <div class="frame-2">
+              <img class="img-2" src="img/wind.svg" />
+              <div class="day-3">Humidity</div>
+              <div class="group-3">
+                <div class="overlap-group-5">
+                  <img class="line" src="img/line-2-4.svg" />
+                  <div class="ellipse-3"></div>
+                </div>
+              </div>
+              <div class="day-4">80%</div>
+            </div>
+            <div class="frame-2">
+              <img class="img-2" src="img/sun-2.svg" />
+              <div class="day-3">UV Index</div>
+              <img class="group-4" src="img/group-5.png" />
+              <div class="day-5">4</div>
+            </div>
+            <div class="frame-2">
+              <img class="img-2" src="img/wind-2.svg" />
+              <div class="day-3">Wind</div>
+              <div class="group-3">
+                <div class="overlap-group-5">
+                  <img class="line" src="img/line-2.svg" />
+                  <div class="ellipse-4"></div>
+                </div>
+              </div>
+              <div class="day-5">5 mph</div>
+            </div>
+            <div class="frame-2">
+              <img class="img-2" src="img/eye.svg" />
+              <div class="day-3">Visibility</div>
+              <div class="group-3">
+                <div class="overlap-group-5">
+                  <img class="line" src="img/line-2-2.svg" />
+                  <div class="ellipse-5"></div>
+                </div>
+              </div>
+              <div class="day-4">22 mi</div>
+            </div>
+            <div class="frame-2">
+              <img class="minimize" src="img/minimize-2.svg" />
+              <div class="day-3">Pressure</div>
+              <div class="group-3">
+                <img class="line-2" src="img/line-2-3.svg" />
+                <div class="ellipse-6"></div>
+              </div>
+              <div class="day-5">30 inHg</div>
+            </div>
+          </div>
+          <div class="home-affordance"><div class="home-indicator"></div></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
